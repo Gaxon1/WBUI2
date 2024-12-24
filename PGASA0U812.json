@@ -61,10 +61,10 @@
                 "buttontext": "Player List",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
-					{
-						"title": "Connected Players",
-						"text": "{playerlist}"
-					}
+			{
+				"title": "Connected Players",
+				"text": "{playerlist}"
+			}
                 ]
             }
         ],
