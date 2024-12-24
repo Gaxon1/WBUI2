@@ -22,12 +22,12 @@
                 "content": [
                     {
                         "title": "RULES",
-                        "text": "Do not block explorer notes\n Do not block Obelisk or Artifact Caves\n No Griefing, this is a PvPvE server. PvP is enabled 6PM to 8PM CST.\n Keep Racism, Politics and Religion out of the game and names.\n Check the rules frequently as they may be added to or revised."
+                        "text": "Do not block explorer notes\nDo not block Obelisk or Artifact Caves\nNo Griefing, this is a PvPvE server. PvP is enabled 6PM to 8PM CST.\nKeep Racism, Politics and Religion out of the game and names.\nCheck the rules frequently as they may be added to or revised."
                     }
                 ]
             },
             {
-                "layout": 2,
+                "layout": 1,
                 "buttontext": "Mods",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
@@ -57,7 +57,7 @@
                 ]
             },
             {
-                "layout": 4,
+                "layout": 1,
                 "buttontext": "Player List",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
