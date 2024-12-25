@@ -27,14 +27,18 @@
                 ]
             },
             {
-                "layout": 1,
+                "layout": 2,
                 "buttontext": "Mods",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Mods",
-                        "text": "Custom Dion Levels\n Adjust the level range of Dino spawns. Currently set to levels 50 to 150.\n\n Super Cryo Storage\n Alternative Cryo system, Dino's can produce resources inside the terminal, pick up and imprint hatched babies, incubate eggs and fertilize plots.\n\n Crafting Skill Potion\n Sets all skill points to crafting for a short amount of time.\n\n Puller\n Enables you to pull a selected item or materials for a selected engram into an inventory.\n\n "
-                    }
+                        "text": "Custom Dion Levels\nAdjust the level range of Dino spawns. Currently set to levels 50 to 150.\n\nSuper Cryo Storage\nAlternative Cryo system, Dino's can produce resources inside the terminal, pick up and imprint babies, incubate eggs and fertilize plots.\n\nRandi's Animal Traps\nCraftable traps to simplify trapping and taming.\n\nAwesome Spyglass!\nSpyglass shows taming stats as well as taming food.\n\nCrafting Skill Potion\nSets all skill points to crafting for a short amount of time.\n\n Puller\n Enables you to pull a selected item or materials for a selected engram into an inventory.\n\nKlinger Additional Structures\nEarly level Dedicated Storage, compact furnace and more."
+                    },
+					{
+						"title": "Mods"
+						"text": "WIP"
+					}
                 ]
             },
             {
@@ -61,10 +65,10 @@
                 "buttontext": "Player List",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
-			{
-				"title": "Connected Players",
-				"text": "{playerlist}"
-			}
+					{
+						"title": "Connected Players",
+						"text": "{playerlist}"
+					}
                 ]
             }
         ],
