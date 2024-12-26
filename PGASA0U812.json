@@ -57,13 +57,17 @@
                 ]
             },
             {
-                "layout": 1,
+                "layout": 2,
                 "buttontext": "Events",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Active Events",
                         "text": "Ark Winter Wonderland"
+                    },
+                    {
+                        "title": "Passive Events",
+                        "text": ""
                     }
                 ]
             },
