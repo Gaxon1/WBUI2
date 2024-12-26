@@ -15,6 +15,21 @@
             "updateinterval": 1
         },
         "tabs": [
+			{
+                "layout": 2,
+                "buttontext": "Servers",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Server Information",
+                        "text": "Status: PvPvE - PvP 6Pm to 8PM CST\nOffline PvP: Offline Protection Enabled\nDifficulty Override: 5.0 - Level 150 Wild Dinos\nItem Stack: 2.5X\nSupply Crates & Fishing: 1.5X\nBaby Maturation & Imprinting: 8X\nEgg Hatch Speed: 8X\nMating Interval & Speed: 4X\nHarvesting: 4X\nTaming: 2X"
+                    },
+                    {
+                        "title": "Clustered Servers",
+                        "text": "Paragon Gaming - Cluster TI: The Island\nParagon Gaming - Cluster TC: The Center\nParagon Gaming - Cluster SE: Scorched Earth\nParagon Gaming - Cluster AB - Abberation\nParagon Gaming - Cluster EX: Extinction"
+                    }
+                ]
+            },
             {
                 "layout": 1,
                 "buttontext": "Rules",
