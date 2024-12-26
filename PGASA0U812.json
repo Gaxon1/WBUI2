@@ -48,7 +48,7 @@
                 "content": [
                     {
                         "title": "Mods",
-                        "text": "Custom Dion Levels\nAdjust the level range of Dino spawns. Currently set to levels 50 to 150.\n\nSuper Cryo Storage\nAlternative Cryo system, Dino's can produce resources inside the terminal, pick up and imprint babies, incubate eggs and fertilize plots.\n\nRandi's Animal Traps\nCraftable traps to simplify trapping and taming.\n\nAwesome Spyglass!\nSpyglass shows taming stats as well as taming food.\n\nCrafting Skill Potion\nSets all skill points to crafting for a short amount of time.\n\n Puller\n Enables you to pull a selected item or materials for a selected engram into an inventory.\n\nKlinger Additional Structures\nEarly level Dedicated Storage, compact furnace and more."
+                        "text": "Custom Dino Levels\nAdjust the level range of Dino spawns. Currently set to levels 50 to 150.\n\nSuper Cryo Storage\nAlternative Cryo system, Dino's can produce resources inside the terminal, pick up and imprint babies, incubate eggs and fertilize plots.\n\nRandi's Animal Traps\nCraftable traps to simplify trapping and taming.\n\nAwesome Spyglass!\nSpyglass shows taming stats as well as taming food.\n\nCrafting Skill Potion\nSets all skill points to crafting for a short amount of time.\n\n Puller\n Enables you to pull a selected item or materials for a selected engram into an inventory.\n\nKlinger Additional Structures\nEarly level Dedicated Storage, compact furnace and more."
                     },
 					{
 						"title": "Mods",
@@ -57,21 +57,13 @@
                 ]
             },
             {
-                "layout": 3,
-                "buttontext": "3 Box layout",
+                "layout": 1,
+                "buttontext": "Events",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
-                    },
-                    {
-                        "title": "Top right title",
-                        "text": "This text goes into the top right box"
-                    },
-                    {
-                        "title": "Bottom right title",
-                        "text": "This text goes into the bottom right box"
+                        "title": "Active Events",
+                        "text": "Ark Winter Wonderland"
                     }
                 ]
             },
@@ -89,16 +81,8 @@
         ],
         "links": [
             {
-                "text": "Link to Wiki",
-                "url": "https://wiki.wbui2.de"
-            },
-            {
-                "text": "Link to discord",
-                "url": "https://discord.com/invite/K7NyrTV"
-            },
-            {
-                "text": "Link to google",
-                "url": "https://google.com"
+                "text": "Discord",
+                "url": "https://discord.gg/nAUgXpN"
             }
         ],
         "version": 2
