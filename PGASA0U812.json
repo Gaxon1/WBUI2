@@ -48,11 +48,11 @@
                 "content": [
                     {
                         "title": "Mods",
-                        "text": "Custom Dino Levels\nAdjust the level range of Dino spawns. Currently set to levels 50 to 150.\n\nSuper Cryo Storage\nAlternative Cryo system, Dino's can produce resources inside the terminal, pick up and imprint babies, incubate eggs and fertilize plots.\n\nRandi's Animal Traps\nCraftable traps to simplify trapping and taming.\n\nAwesome Spyglass!\nSpyglass shows taming stats as well as taming food.\n\nCrafting Skill Potion\nSets all skill points to crafting for a short amount of time.\n\n Puller\n Enables you to pull a selected item or materials for a selected engram into an inventory.\n\nKlinger Additional Structures\nEarly level Dedicated Storage, compact furnace and more."
+                        "text": "Custom Dino Levels\nAdjust the level range of Dino spawns. Currently set to levels 50 to 150.\n\nSuper Cryo Storage\nAlternative Cryo system, Dino's can produce resources inside the terminal, pick up and imprint babies, incubate eggs and fertilize plots.\n\nRandi's Animal Traps\nCraftable traps to simplify trapping and taming.\n\nAwesome Spyglass!\nSpyglass shows taming stats as well as taming food.\n\nCrafting Skill Potion\nSets all skill points to crafting for a short amount of time.\n\n Puller\n Enables you to pull a selected item or materials for a selected engram into an inventory.\n\nKlinger Additional Structures\nEarly level Dedicated Storage, compact forge and more."
                     },
 					{
 						"title": "Mods",
-						"text": "WIP"
+						"text": "Klinger Additional Concrete Structures\nStructure Tier between Metal and Tek.\n\nExplorer Notes Tracker WIP\nHold down R to activate, a bug currently prevents the menu appearing until after a death respawn.\n\nAstraeos Structures\nGreek Style structure Skins.\n\nSilent Structures\nAdustable volume for Generators, Fabricators etc.\n\nStructure Management Tools\nTool allows you to pickup, destroy & repair structures as well as transfer inventory.\n\nNo Generator Limit\nEnables you to overlap generator range by removing the default limit."
 					}
                 ]
             },
