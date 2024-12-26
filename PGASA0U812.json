@@ -18,7 +18,7 @@
 			{
                 "layout": 2,
                 "buttontext": "Servers",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "",
                 "content": [
                     {
                         "title": "Server Information",
@@ -33,7 +33,7 @@
             {
                 "layout": 1,
                 "buttontext": "Rules",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "",
                 "content": [
                     {
                         "title": "RULES",
@@ -44,7 +44,7 @@
             {
                 "layout": 2,
                 "buttontext": "Mods",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "",
                 "content": [
                     {
                         "title": "Mods",
@@ -59,7 +59,7 @@
             {
                 "layout": 2,
                 "buttontext": "Events",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "",
                 "content": [
                     {
                         "title": "Active Events",
