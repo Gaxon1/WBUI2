@@ -52,7 +52,7 @@
                     },
 					{
 						"title": "Mods",
-						"text": "Klinger Additional Concrete Structures\nStructure Tier between Metal and Tek.\n\nExplorer Notes Tracker WIP\nHold down R to activate, a bug currently prevents the menu appearing until after a death respawn.\n\nAstraeos Structures\nGreek Style structure Skins.\n\nSilent Structures\nAdustable volume for Generators, Fabricators etc.\n\nStructure Management Tools\nTool allows you to pickup, destroy & repair structures as well as transfer inventory.\n\nNo Generator Limit\nNew generator that does not have a limit."
+						"text": "Klinger Additional Concrete Structures\nStructure Tier between Metal and Tek.\n\nExplorer Notes Tracker WIP\nHold down R to activate, a bug currently prevents the menu appearing until after a death respawn.\n\nAstraeos Structures\nGreek Style structure Skins.\n\nSilent Structures\nAdustable volume for Generators, Fabricators etc.\n\nStructure Management Tools\nTool allows you to pickup, destroy & repair structures as well as transfer inventory.\n\nRandi's Wireless power Transmitter\nIncrease range of generators with a repeater. Additional industrial generator.\n\nWireless Tools: Dedicated Storage Instake\nAutomatically sorts items to the assigned dedicated storage. Additional dedicated storage skins."
 					}
                 ]
             },
