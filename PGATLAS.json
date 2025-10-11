@@ -1,8 +1,8 @@
 {
     "ServerName": "Paragon Gaming",
     "ButtonTxt1": "News",
-    "ButtonTxt2": "",
-    "ButtonTxt3": "",
+    "ButtonTxt2": "Mods",
+    "ButtonTxt3": "Server Settings",
     "ButtonTxt4": "",
     "ButtonTxt5": "",
     "LinkButtonTxt1": "WBUI",
@@ -25,7 +25,7 @@
     "Link3Button5": "",
     "Link4Button5": "",
     "Tab1Panelcount": 1,
-    "Tab2Panelcount": 3,
+    "Tab2Panelcount": 1,
     "Tab3Panelcount": 1,
     "Tab4Panelcount": 1,
     "Tab5Panelcount": 1,
@@ -42,8 +42,8 @@
     "UseSteamBrowserLink1": false,
     "UseSteamBrowserLink2": false,
     "Tab1Title1": "News & Updates",
-    "Tab1Title2": "",
-    "Tab1Title3": "",
+    "Tab1Title2": "Mods",
+    "Tab1Title3": "Rates & Settings",
     "Tab2Title1": "",
     "Tab2Title2": "",
     "Tab2Title3": "",
@@ -56,10 +56,29 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": "Servers ending in 1, 2 & 3 have been moved to a second box. 
-    Hopefully this will lesson lag spikes and out of memory crashes.",
-    "Tab1Text2": "",
-    "Tab1Text3": "",
+    "Tab1Text1": "
+    October 8: Noticed a bug with the Ship Resource + box. The contents will occasionally be invisible, relog to fix the issue.
+    October 9: Treasure Map Bottles are fixed.
+    October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefully this will lesson lag spikes and out of memory crashes. The Database has been moved to a 3rd box by itself.",
+    "Tab1Text2": "
+    2497732209 Maintenance Dock
+    2783071551 Mythical Compass (Animal Finder)
+    1985458357 Marvelous Spyglass
+    1985358255 Pickup-Hammer, Transfer-Hammer, Admin Tools, Euthanasia Dagger &amp; Company Rank Tool
+    2279458702 Tame Overhaul
+    1906611197 ATLAS Beastmaster (v0.11.1)
+    1632631187 AtlasPlus (v7.0.0)
+    2802942044 Ship Resource Box +
+    2805331512 Creature Bottle
+    2510799901 Ship Repair Crew
+    1639088858 Editable Server UI (WBUI)",
+    "Tab1Text3": "
+    4X Gathering, Harvesting, XP & Taming
+    2X Floatsam
+    2X Gold
+    2X Treasure
+    8X Breeding
+    32X Maturation",
     "Tab2Text1": "",
     "Tab2Text2": "",
     "Tab2Text3": "",
