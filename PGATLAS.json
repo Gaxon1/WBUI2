@@ -56,13 +56,8 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": "Servers Ending in 1, 2, & 3 have been moved to a new server box. This should help reduce lag and lower crashes due to running out of memory."
-
-Are you an Admin?
-Follow these steps:
-- enablecheats youradminpassword (login as admin)
-- Admin icon visible
-- Use the buttons in the bottom right corner.",
+    "Tab1Text1": "Servers ending in 1, 2 & 3 have been moved to a second box. 
+    Hopefully this will lesson lag spikes and out of memory crashes.",
     "Tab1Text2": "",
     "Tab1Text3": "",
     "Tab2Text1": "",
