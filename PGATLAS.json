@@ -60,7 +60,9 @@
     October 8: Noticed a bug with the Ship Resource + box. The contents will occasionally be invisible, relog to fix the issue.
     October 9: Treasure Map Bottles are fixed.
     October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefully this will lesson lag spikes and out of memory crashes. The Database has been moved to a 3rd box by itself.",
-    "Tab1Text2": "
+    "Tab1Text2": "",
+    "Tab1Text3": "",
+    "Tab2Text1": "
     2497732209 Maintenance Dock
     2783071551 Mythical Compass (Animal Finder)
     1985458357 Marvelous Spyglass
@@ -72,17 +74,15 @@
     2805331512 Creature Bottle
     2510799901 Ship Repair Crew
     1639088858 Editable Server UI (WBUI)",
-    "Tab1Text3": "
+    "Tab2Text2": "",
+    "Tab2Text3": "",
+    "Tab3Text1": "
     4X Gathering, Harvesting, XP & Taming
     2X Floatsam
     2X Gold
     2X Treasure
     8X Breeding
     32X Maturation",
-    "Tab2Text1": "",
-    "Tab2Text2": "",
-    "Tab2Text3": "",
-    "Tab3Text1": "",
     "Tab3Text2": "",
     "Tab3Text3": "",
     "Tab4Text1": "",
