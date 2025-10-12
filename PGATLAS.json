@@ -59,7 +59,7 @@
     "Tab1Text1": "
 October 8: Noticed a bug with the Ship Resource + box. The contents will occasionally be invisible, relog to fix the issue.
 October 9: Treasure Map Bottles are fixed.
-October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefully this will lesson lag spikes and out of memory crashes. The Database has been moved to a 3rd box by itself.
+October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefully this will prevent lag spikes and out of memory crashes. The Database has been moved to a 3rd box by itself.
 October 11: Found that the Atlas Plus 7 mod has some game breaking bugs. We apologize for the inconvenience and loss of any structures affected by this.",
     "Tab1Text2": "",
     "Tab1Text3": "",
