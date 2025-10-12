@@ -59,7 +59,8 @@
     "Tab1Text1": "
 October 8: Noticed a bug with the Ship Resource + box. The contents will occasionally be invisible, relog to fix the issue.
 October 9: Treasure Map Bottles are fixed.
-October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefully this will lesson lag spikes and out of memory crashes. The Database has been moved to a 3rd box by itself.",
+October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefully this will lesson lag spikes and out of memory crashes. The Database has been moved to a 3rd box by itself.
+October 11: Found that the Atlas Plus 7 mod has some game breaking bugs. We apologize for the inconvenience and loss of any structures affected by this.",
     "Tab1Text2": "",
     "Tab1Text3": "",
     "Tab2Text1": "
@@ -69,7 +70,6 @@ October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefull
 1985358255 Pickup-Hammer, Transfer-Hammer, Admin Tools, Euthanasia Dagger &amp; Company Rank Tool
 2279458702 Tame Overhaul
 1906611197 ATLAS Beastmaster (v0.11.1)
-1632631187 AtlasPlus (v7.0.0)
 2802942044 Ship Resource Box +
 2805331512 Creature Bottle
 2510799901 Ship Repair Crew
@@ -77,12 +77,12 @@ October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefull
     "Tab2Text2": "",
     "Tab2Text3": "",
     "Tab3Text1": "
-    4X Gathering, Harvesting, XP & Taming
-    2X Floatsam
-    2X Gold
-    2X Treasure
-    8X Breeding
-    32X Maturation",
+4X Gathering, Harvesting, XP & Taming
+2X Floatsam
+2X Gold
+2X Treasure
+8X Breeding
+32X Maturation",
     "Tab3Text2": "",
     "Tab3Text3": "",
     "Tab4Text1": "",
