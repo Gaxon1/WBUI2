@@ -60,7 +60,8 @@
 October 8: Noticed a bug with the Ship Resource + box. The contents will occasionally be invisible, relog to fix the issue.
 October 9: Treasure Map Bottles are fixed.
 October 11: Servers ending in 1, 2 & 3 have been moved to a second box. Hopefully this will prevent lag spikes and out of memory crashes. The Database has been moved to a 3rd box by itself.
-October 11: Found that the Atlas Plus 7 mod has some game breaking bugs. We apologize for the inconvenience and loss of any structures affected by this. Added Better Farms 2.",
+October 11: Found that the Atlas Plus 7 mod has some game breaking bugs. We apologize for the inconvenience and loss of any structures affected by this. Added Better Farms 2.
+October 12: Wiped servers and database due to bugs caused by a bad mod. All good now, please report any bugs or issues on Discord.",
     "Tab1Text2": "",
     "Tab1Text3": "",
     "Tab2Text1": "
