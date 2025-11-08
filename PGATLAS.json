@@ -65,7 +65,8 @@ October 12: Wiped servers and database due to bugs caused by a bad mod. All good
 October 13: Servers are stable, mods have been tested. Servers are ready for play.
 October 20: Added a few new mods, hopefully these don't cause issues.
 October 27: Redis Databases were frequently being corrupted due to the mods added a week ago. I've finally found the one causing the issues.
-November 01: Servers have been running without issue for 6 days and no more corrupted redis databases.",
+November 01: Servers have been running without issue for 6 days and no more corrupted redis databases
+November 08: Added more crops mod.",
     "Tab1Text2": "",
     "Tab1Text3": "",
     "Tab2Text1": "
@@ -83,7 +84,8 @@ November 01: Servers have been running without issue for 6 days and no more corr
 3429501455 Better Farms 2.0
 1674760813 Atlas Transfer\\Pickup Gun
 2805331512 Creature Bottle
-2783071551 Mythical Compass (Animal Finder)",
+2783071551 Mythical Compass (Animal Finder)
+2272612361 More Crops",
     "Tab2Text2": "",
     "Tab2Text3": "",
     "Tab3Text1": "
